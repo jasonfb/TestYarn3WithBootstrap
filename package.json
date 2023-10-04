@@ -22,5 +22,6 @@
   },
   "browserslist": [
     "defaults"
-  ]
+  ],
+  "packageManager": "yarn@3.6.4"
 }
